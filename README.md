@@ -1,3 +1,5 @@
+### https://esetorial.com.br/blog/229-170-projetos-de-data-science-e-machine-learning-com-python-resolvidos-e-explicados
+
 # God-Level Data Science ML Full Stack
 
 A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI
